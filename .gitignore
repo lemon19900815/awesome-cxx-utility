@@ -1,0 +1,5 @@
+# this is .gitignore file.
+
+.vs
+x64
+*.user
